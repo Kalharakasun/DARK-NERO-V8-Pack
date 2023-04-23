@@ -27,7 +27,7 @@ global.socialm = "𝙸𝚗𝚜𝚝𝚊: 𝙺.𝙿𝙴𝚁𝙴𝚁𝙰" //ur gith
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.session = "VGkzdDlEVGY=" //session Id
+global.session = "VGkzdDlEVGY= " //session Id
 global.ownernomer = "94781518744" //ur number
 global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
 global.premium = ['94781518744'] //ur premium number
